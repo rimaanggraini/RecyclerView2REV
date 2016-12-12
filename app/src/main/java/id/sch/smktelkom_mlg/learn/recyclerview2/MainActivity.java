@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         mAdapter = new HotelAdapter(mList);
         recyclerView.setAdapter(mAdapter);
 
+
         fillData();
     }
 
