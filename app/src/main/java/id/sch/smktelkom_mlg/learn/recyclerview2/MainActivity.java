@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<Hotel> mList = new ArrayList<>();
     HotelAdapter mAdapter;
 
-    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
